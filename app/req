@@ -1,0 +1,1 @@
+pip install greenlet, aiosqlite, sqlalchemy, asyncio, aiogram
